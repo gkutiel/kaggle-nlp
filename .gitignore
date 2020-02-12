@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+.mypy_cache/
+.vscode/settings.json
+
+data/
+out/
+
+.doit.db
+*.zip
